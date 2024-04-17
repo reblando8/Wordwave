@@ -1,3 +1,5 @@
+// Seeing if I can update main - Harry
+
 var wordToGuess = "";
 var guessCount = 0;
 
